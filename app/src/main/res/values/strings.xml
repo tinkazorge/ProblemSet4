@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProblemSet4</string>
+    <string name="instrutions2">Long click to remove list, short click to edit!</string>
+    <string name="instructions1">Long click to remove list!</string>
+    <string name="add">Add</string>
+    <string name="items">Your Items</string>
+    <string name="lists">Your Lists</string>
+    <string name="add2">Add</string>
+</resources>
